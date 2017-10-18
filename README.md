@@ -1,5 +1,4 @@
 # DISSCO
-# DISSCO
 For more information, please see the homepage at: http://ems.music.illinois.edu/software/dissco/index.php
 
 Building CMOD

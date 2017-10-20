@@ -1,0 +1,10 @@
+in Note.cpp:
+  line 293:
+    why does ratio need to be 6
+  if ratio (simplified) == 1.5:
+    return dotted quarter
+  if ratio (simplified) == 1:
+    return quarter
+  break notes into time signature unit based on beat & merge together later
+  
+quarter, dotted quarter, quarter/[2, 3, 4, 5, 6], tuples, half
